@@ -7,7 +7,7 @@ td.center, th.center{
     text-align:center;
 }
 th{
-    color: #3c8dbc;asdasdasdasdasdada
+    color: #3c8dbc;asdasdasdasdasdada  datta kadam
 }
 .box-footer {
     background-color: transparent;
