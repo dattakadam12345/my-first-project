@@ -7,7 +7,7 @@ td.center, th.center{
     text-align:center;
 }
 th{
-    color: #3c8dbc;
+    color: #3c8dbc;asdasdasdasdasdada
 }
 .box-footer {
     background-color: transparent;
